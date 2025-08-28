@@ -4,7 +4,7 @@ Passionate about exploring the theoretical foundations and cutting-edge advancem
 
 As a proactive .NET Developer with a strong knowledge in full-stack web development, actively engage in projects, coding competitions, and collaborative learning to sharpen my skills. I believe in the power of innovation and teamwork to create impactful solutions.
 
-In my fun time, I work on game development through my gaming concepts. Although it is all about fun. My focus is on crafting compelling game-play, optimizing real-time performance, and pushing the creativity.
+Additionally, I work on game development through my gaming knowledge. Although it is all about fun. My focus is on crafting compelling game-play, optimizing real-time performance, and pushing the creativity.
 
 Open to collaboration on innovative projects of AI, .NET, and Game Development.
 
