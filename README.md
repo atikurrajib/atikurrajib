@@ -5,6 +5,8 @@
 
 ![Snake animation](https://github.com/atikurrajib/atikurrajib/blob/output/github-snake.svg)
 
+> "A passionate backend web developer who codes so much that a purple snake has started living in my contribution graph."
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,go,git,flask,django,fastapi,mysql,postgres,mongodb,graphql,sklearn,pytorch,linux,docker,aws&theme=dark" />
 </p>
