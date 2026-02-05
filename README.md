@@ -6,7 +6,7 @@
 ![Snake animation](https://github.com/atikurrajib/atikurrajib/blob/output/github-snake.svg)
 
 <p align="center">
-"A passionate software developer who codes so much that a purple snake has started living in my contribution graph."
+"A passionate software developer who codes so much that a purple snake has started living in his contribution graph."
 </p>
 
 <p align="center">
