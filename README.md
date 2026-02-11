@@ -8,7 +8,3 @@
 <p align="center">
 "A passionate software developer who codes so much that a purple snake has started living in his contribution graph."
 </p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,go,git,postgres,linux,docker&theme=dark" />
-</p>
