@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,go,git,mongodb,linux,docker,kubernetes,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,go,git,mongodb,linux,docker,kubernetes,gcp&theme=dark" />
 </p>
